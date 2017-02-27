@@ -37,3 +37,7 @@ android {
         }
     }
 }
+
+dependencies {
+    compile 'com.google.android.exoplayer:exoplayer:r2.2.0'
+}
