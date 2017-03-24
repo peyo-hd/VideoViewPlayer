@@ -3,7 +3,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.3'
+        classpath 'com.android.tools.build:gradle:2.3.0'
     }
 }
 
@@ -19,7 +19,7 @@ android {
 
     defaultConfig {
         applicationId "com.peyo.videoview"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 25
     }
 
