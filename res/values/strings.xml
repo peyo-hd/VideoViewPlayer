@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoView</string>
+
+    <string name="select_video_prompt">Select Video</string>
+    <string name="play_button_text">Play</string>
+    <string name="looping_text">Looping</string>
+    <string name="texture_view_text">Use TextureView</string>
+    <string name="advertisement_text">Advertisement</string>
+    <string name="transformable_text">Transform</string>
+</resources>
